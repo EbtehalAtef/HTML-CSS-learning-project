@@ -1,5 +1,7 @@
 # HTML & CSS Learning Project
 
+![Project Screenshot](screenshot.png)
+
 A simple personal project website built while learning HTML and CSS.
 
 ## About the Project
